@@ -1,3 +1,6 @@
+# Fork 🍴 from https://github.com/foomo/pagespeed_exporter
+Reason: enhancing security by building and deploying own images in standarized CI.
+
 # Prometheus Exporter for Google Pagespeed Online Metrics
 [![Travis CI](https://travis-ci.org/foomo/pagespeed_exporter.svg?branch=master)](https://travis-ci.org/foomo/pagespeed_exporter)
 
